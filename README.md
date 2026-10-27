@@ -144,3 +144,13 @@ Router menus and available features vary. Consult the official documentation for
 I make practical tech guides to help people understand their hardware and get more out of their setups. If this guide helped you, you can support future content here:
 
 **[☕ Buy Me a Coffee — DeshaunDoesTech](https://buymeacoffee.com/DeshaunDoesTech)**
+
+## License
+
+Copyright © 2026 DeshaunDoesTech.
+
+This guide is licensed under the [Creative Commons Attribution 4.0 International license (CC BY 4.0)](LICENSE). You may share and adapt it, including commercially, provided you give appropriate credit, link to the license, and indicate changes, in accordance with its terms.
+
+Suggested attribution: “Latency Variation Guide” by [DeshaunDoesTech](https://github.com/DeshaunDoesTech/latency-variation-guide), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Indicate any changes you make.
+
+External resources linked from this guide remain subject to their respective terms.
